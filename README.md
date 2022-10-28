@@ -2,6 +2,6 @@
 
 see code in the master branch
 
-<font color=lightblue size=7 > version1 </font>
+<div align='center' ><font size='70'>version 1</font></div>
 
 waiting to add, still in editing
